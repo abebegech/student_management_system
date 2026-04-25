@@ -1,0 +1,22 @@
+	
+Warning: Undefined array key "first_name" in C:\xampp\htdocs\student-system\admin\students.php on line 180
+
+Warning: Undefined array key "last_name" in C:\xampp\htdocs\student-system\admin\students.php on line 180	
+Warning: Undefined array key "first_name" in C:\xampp\htdocs\student-system\admin\students.php on line 180
+
+Warning: Undefined array key "last_name" in C:\xampp\htdocs\student-system\admin\students.php on line 180{
+    "name": "bdu/student-management-system",
+    "description": "Pro-Level Student Management System with RBAC",
+    "require": {
+        "php": ">=7.4",
+        "dompdf/dompdf": "^2.0",
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
